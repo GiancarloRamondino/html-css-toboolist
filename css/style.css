@@ -22,8 +22,9 @@ body{
     display: inline-block;
 }
 
-.w-100{
-    width: 100;
+#w-15{
+    font-size: 15px 10px;
+    color: rgb(255, 0, 0);
 }
 
 .font-50{
@@ -96,12 +97,21 @@ body{
 }
 
 
-/*footer*/
+/*special micro*/
 .circle{
-    padding: 20px;
-    display: inlineblock;
-    Margin-right: 20 px 
+    border-radius: 50%;
+    border-color:rgb(11, 243, 11)e;
+    border-style: solid;
+    width: 15px;
+    height: 10px;
+    align-self: center;
+    padding-bottom: 6px;
+    padding-left: 2px;
+    color:rgb(21, 247, 32) 
 }
+
+
+
   
 
 
