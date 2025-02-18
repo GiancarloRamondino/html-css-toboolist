@@ -64,8 +64,17 @@ body{
 }
 
 .size{
-    font-family: cursive;
-    font-size: large;
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+.size1{
+    font-family: sans-serif;
+    font-size:100%;
+}
+
+.size2{
+    font-size:180%;
 }
 
 .color-green{
@@ -101,7 +110,7 @@ body{
 .circle{
     border-radius: 50%;
     border-color:rgb(11, 243, 11)e;
-    border-style: solid;
+    border-style: solid ;
     width: 15px;
     height: 10px;
     align-self: center;
