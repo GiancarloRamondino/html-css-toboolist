@@ -1,12 +1,12 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 /*header*/
 body{
-    background-color: rgb(238, 236, 236);
+    background-color: rgb(221, 218, 218);
 }
 
 .backgroundcolor-white{
@@ -36,20 +36,35 @@ body{
 
 .margin{
     margin: 150px;
-    margin-top: ;
+    margin-top: 40px;
+    padding: 40px
+}
+
+.margin-tab{
+    margin-top: 0px;
+    padding: 40px
 }
 
 .border-tab{
     border-color: rgb(255, 255, 255);
     padding: 10px;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .border-tag{
     border-color: rgb(255, 255, 255);
     padding: 10px;
     border-radius: 15px 15px 15px 15px;
+}
 
+.border-fold{
+    align-content: top;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.size{
+    font-family: cursive;
+    font-size: large;
 }
 
 .color-green{
