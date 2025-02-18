@@ -5,15 +5,6 @@ Consigli Partiamo sempre dal definire le macroaree del layout e analizziamo poi 
 Numero push obbligatori: 6
 Consegna Pushate in Github utilizzando VS code e stando attenti, quando create la repo, di rispettare il nome della repo, in questo caso html-css-toboolist. Buon lavoro!
 2 file
- 
-Screenshot.webp
-Screenshot.webp
-WebP
-
-
-
-img(1).zip
-Zip
 
 
 

@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*header*/
+.backgroundcolor-grey{
+    background-color: rgb(54, 54, 54);
+}
+.backgroundcolor-white{
+    background-color: rgb(255, 255, 255);
+}
+
+.v-alinee-mid{
+    vertical-align: middle;
+}
+
+/*main*/
+.inlineblock{
+    display: inline-block;
+}
+
+.w-100{
+    width: 100;
+}
+
+.h-100{
+    height: 100;
+}
+
+.backgroundcolor-blue{
+    background-color: rgb(29, 124, 202);
+}
+
+
+/*footer*/
+
+
+
+
+
