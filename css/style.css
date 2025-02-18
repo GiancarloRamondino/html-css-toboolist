@@ -97,7 +97,12 @@ body{
 
 
 /*footer*/
-
+.circle{
+    padding: 20px;
+    display: inlineblock;
+    Margin-right: 20 px 
+}
+  
 
 
 
