@@ -87,7 +87,8 @@ body{
 }
 
 .size2{
-    font-size:180%;
+    font-size:170%;
+    margin-left: -4px;
 }
 
 .color-green{
@@ -127,14 +128,29 @@ body{
 .circle{
     border-radius: 50%;
     border-color:rgb(11, 243, 11)e;
-    border-style: solid ;
+    border-style: solid;
     width: 15px;
     height: 10px;
     align-self: center;
-    padding-bottom:8px;
-    padding-left: 4px;
-    padding-top: -8px;
-    color:rgb(21, 247, 32);
+    padding-bottom:6px;
+    padding-left: 2px;
+    padding-top: -6px;
+    color:rgb(11, 95, 15);
+    font-size:70%
+}
+
+.circle-red{
+    border-radius: 50%;
+    border-color:rgb(243, 11, 11)e;
+    border-style: solid;
+    width: 15px;
+    height: 10px;
+    align-self: center;
+    padding-bottom:6px;
+    padding-left: 2px;
+    padding-right:0px;
+    padding-top: -6px;
+    font-size:70%
 }
 
 
