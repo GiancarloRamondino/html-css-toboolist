@@ -13,8 +13,13 @@ body{
     background-color: rgba(255, 255, 255, 0.596);
 }
 
+.backgroundcolor-white1{
+    background-color: rgb(255, 255, 255);
+}
+
 .v-alinee-mid{
     vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /*main*/
@@ -126,37 +131,17 @@ body{
 
 /*special micro*/
 .circle{
+    padding: 0px 3px;
     border-radius: 50%;
-    border-color:rgb(11, 243, 11)e;
-    border-style: solid;
-    width: 15px;
-    height: 10px;
-    align-self: center;
-    padding-bottom:6px;
-    padding-left: 2px;
-    padding-top: -6px;
-    color:rgb(11, 95, 15);
-    font-size:70%
+    border: 1px solid green;
+    color: green;
+    margin-right: 10px;
 }
 
 .circle-red{
+    padding: 0px 3px;
     border-radius: 50%;
-    border-color:rgb(243, 11, 11)e;
-    border-style: solid;
-    width: 15px;
-    height: 10px;
-    align-self: center;
-    padding-bottom:6px;
-    padding-left: 2px;
-    padding-right:0px;
-    padding-top: -6px;
-    font-size:70%
+    border: 1px solid rgb(128, 0, 0);
+    color: rgb(128, 0, 0);
+    margin-right: 10px;
 }
-
-
-
-  
-
-
-
-
